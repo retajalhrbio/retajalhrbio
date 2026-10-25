@@ -1,39 +1,43 @@
-# Hi there! I'm Ritaj Almehmadi 👋
+# Hi, I'm Ritaj Almehmadi! 👋
 
-🎓 **Computer Science Student | Umm Al-Qura University**
+🎓 **Computer Science Student at Umm Al-Qura University**
 
-I'm a Computer Science student at Umm Al-Qura University with an interest in software development, database systems, and building practical technology solutions.
+I'm a Computer Science student at Umm Al-Qura University, interested in **software development, database systems, and software engineering**.
 
-Through academic projects and collaborative experiences, I've developed skills in programming, system analysis, problem-solving, and teamwork.
+Through academic projects, I've gained practical experience in programming, database design, system analysis, and user interface design.
 
-I'm continuously working on improving my technical skills and gaining hands-on experience.
+I enjoy solving problems, exploring new technologies, and collaborating with others to develop practical solutions.
+
+I'm continuously expanding my technical knowledge and looking forward to gaining more hands-on experience in the technology industry.
 
 ---
 
 ## 💻 Technical Skills
 
-**Programming**
+### Programming Languages
 - Java
 - SQL
 
-**Development & Design**
+### Development Tools & Technologies
 - JavaFX
 - Scene Builder
 - Maven
 - MySQL
 - Figma
+- Git & GitHub
 
-**Software Engineering**
+### Software Engineering & Design
 - Object-Oriented Programming (OOP)
 - Database Design
+- Entity-Relationship Diagrams (ERD)
 - UML Diagrams
 - Requirements Analysis
+- System Design
 - UI/UX Design
 
-**Professional Skills**
-- Teamwork & Collaboration
-- Leadership
+### Professional Skills
 - Problem-Solving
+- Teamwork & Collaboration
 - Communication
 - Time Management
 
@@ -42,35 +46,67 @@ I'm continuously working on improving my technical skills and gaining hands-on e
 ## 🚀 Featured Projects
 
 ### 🎓 Student Management System
-A JavaFX-based academic project focused on student information management and desktop application development.
 
-**Technologies:** Java, JavaFX, Maven
+A desktop application developed as an academic team project using Java and JavaFX.
 
-[View Project](https://github.com/retajalhrbio/Student-Management-System)
+The project focuses on student information management and applying object-oriented programming concepts through desktop application development.
 
-### 🐾 Pet Care Clinic Database Management System
-An academic database design project focused on organizing clinic information through entity relationships and structured database modeling.
+**Technologies:** Java, JavaFX, Maven, Scene Builder
 
-**Focus:** Database Design, ER Diagrams, Relational Modeling
-
-### 🚗 Smart Parking System for University
-A university system analysis and design project proposing a smart parking management and reservation solution.
-
-**Focus:** Requirements Analysis, UML, Software Architecture, Figma
-
-[View Project](https://github.com/retajalhrbio/Smart-Parking-System)
+🔗 [View Project](https://github.com/retajalhrbio/Student-Management-System)
 
 ---
 
-## 🤝 Leadership & Activities
+### 🐾 Pet Care Clinic Database Management System
 
-- Member — Computer Science Club, Umm Al-Qura University
-- Experience collaborating on academic software and system design projects
+An academic database design project focused on organizing and managing information for a pet care clinic.
+
+The project includes database structure planning, entity relationships, and relational database modeling.
+
+**Focus Areas:** Database Design, ER Diagrams, Relational Modeling
+
+---
+
+### 🚗 Smart Parking System for University
+
+An academic system analysis and design project proposing a web-based smart parking management solution for university campuses.
+
+The project includes requirements analysis, UML diagrams, software architecture, wireframes, and user interface mockups.
+
+**Tools & Techniques:** UML, Requirements Engineering, System Architecture, Figma
+
+**Project Status:** Analysis and Design Completed
+
+🔗 [View Project](https://github.com/retajalhrbio/Smart-Parking-System)
+
+---
+
+## 🤝 Activities & Collaboration
+
+**Computer Science Club Member**  
+Umm Al-Qura University
+
+- Active member of the university's Computer Science Club.
+- Experience working collaboratively on academic software development and system design projects.
+
+---
+
+## 🎯 Professional Interests
+
+- Software Development
+- Database Systems
+- Software Engineering
+- System Analysis & Design
+- Emerging Technologies
 
 ---
 
 ## 📫 Connect With Me
 
-**LinkedIn:** [Ritaj Almehmadi](https://www.linkedin.com/in/ritaj-almehmadi)
+💼 **LinkedIn:** [Ritaj Almehmadi](https://www.linkedin.com/in/ritaj-almehmadi)
 
-**GitHub:** [retajalhrbio](https://github.com/retajalhrbio)
+💻 **GitHub:** [retajalhrbio](https://github.com/retajalhrbio)
+
+---
+
+*Always learning, improving, and exploring new opportunities in technology.*
