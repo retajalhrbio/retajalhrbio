@@ -65,6 +65,8 @@ The project includes database structure planning, entity relationships, and rela
 
 **Focus Areas:** Database Design, ER Diagrams, Relational Modeling
 
+🔗 [View Project](https://github.com/retajalhrbio/Pet-Care-Clinic-Database)
+
 ---
 
 ### 🚗 Smart Parking System for University
@@ -86,7 +88,7 @@ The project includes requirements analysis, UML diagrams, software architecture,
 **Computer Science Club Member**  
 Umm Al-Qura University
 
-- Active member of the university's Computer Science Club.
+- Member of the university's Computer Science Club.
 - Experience working collaboratively on academic software development and system design projects.
 
 ---
