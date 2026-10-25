@@ -64,7 +64,6 @@ A university system analysis and design project proposing a smart parking manage
 
 ## 🤝 Leadership & Activities
 
-- Team Leader — Consulting Championship 2025
 - Member — Computer Science Club, Umm Al-Qura University
 - Experience collaborating on academic software and system design projects
 
